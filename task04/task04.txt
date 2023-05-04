@@ -1,0 +1,1 @@
+Sa se creeze un fisier python si sa scrie un cod care sa calculeze dimensiunea ocupata de subdirectoarele aflate in directorul task04. Hint: os.walk, os.path.getsize, os.stat, os.listdir, os.path.isdir.

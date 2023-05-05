@@ -45,5 +45,5 @@ Task 07:
 	a) Cititi datele din fisierele de input f1.txt, f2.txt si f3.txt. 
 	b) Agregati aceste date si calculati valoarea maxima a salariului angajatilor, suma salariilor pe luna ianuarie si 
 	salariul mediu din lunile august - octombrie. 
-	c) Scrieti aceste date intr-un tabel pe care sa il scrieti intr-un fisier cu extensia .xlsx (excel). 
+	c) Scrieti aceste date intr-un tabel pe care sa il scrieti intr-un fisier cu extensia .xlsx (excel). Hint: xlwb module, Workbook class.
 	d) Adaugati solutia si acest fisier xlsx (excel) in repository-ul din contul vostru de Github. 

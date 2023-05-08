@@ -5,17 +5,21 @@ def func(var, value, a = 5, b = 7, c = 3, d = 2):
 	if a > 3 and b < 2:
 		var.write(str(a / b))
 	if c > 2 and d > 0:
-		var.write(value / str(d // c))
-	if a ** d = 25:
-			var.write(str(a ** c))
+		try:
+			var.write(str(value / (d // c)))
+		except Exception as e:
+			var.write("A fost intalnita o exceptie" + "\n")
+	if a ** d == 25:
+		var.write(str(a ** c))
 
-	var.append(str(a * b + c * d))
+	var.write(str(a * b + c * d) + "\n")
 	return res
+
 
 if __name__ == '__main__':
 	name = str(input())
 	value = int(input())
 	var = open(name, "w+")
 	res = func(var, value)
+	var.write(str(value) + "\n")
 	var.close()
-	var.write(value)

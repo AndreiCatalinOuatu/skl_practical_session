@@ -10,7 +10,7 @@ Task 01:
 	b) Gasiti programatic dimensiunea fisierului care contine numarul maxim de aparitii al cuvantului "Lorem". Care 
 	este acest numar? 
 	c) Creati un nou fisier in care sa scrieti acest numar. 
-	d) Faceti commit si push cu fisierele nou create de catre voi 
+	d) Faceti commit si push cu fisierele nou create de catre voi.
 
 Task 02:
 	a) Accesati directorul task02. 
@@ -43,7 +43,7 @@ Task 06:
 
 Task 07: 
 	a) Cititi datele din fisierele de input f1.txt, f2.txt si f3.txt. 
-	b) Agregati aceste date si calculati valoarea maxima a salariului angajatilor, suma salariilor pe luna ianuarie si 
+	b) Agregati aceste date si calculati valoarea maxima a salariului angajatilor, suma salariilor pe luna octombrie si 
 	salariul mediu din lunile august - octombrie. 
-	c) Scrieti aceste date intr-un tabel pe care sa il scrieti intr-un fisier cu extensia .xlsx (excel). Hint: xlwb module, Workbook class.
+	c) Scrieti aceste date intr-un tabel pe care sa il scrieti intr-un fisier cu extensia .xlsx (excel). Hint: xlwt module, Workbook class.
 	d) Adaugati solutia si acest fisier xlsx (excel) in repository-ul din contul vostru de Github. 
